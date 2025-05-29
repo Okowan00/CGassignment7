@@ -2,6 +2,13 @@
 
 ---
 
+## 🛠️ Required project setting
+C++ Language Standard
+Project → Properties → C/C++ → Language → C++ Language Standard
+→ ISO C++17 Standard (/std:c++17)
+
+---
+
 ## ▶️ How to Run
 
 1. Open `CGassignment7.sln` in Visual Studio.

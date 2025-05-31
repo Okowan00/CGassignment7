@@ -13,7 +13,7 @@ Project → Properties → C/C++ → Language → C++ Language Standard
 
 1. Download and unzip the project folder.
 2. Open `CGassignment7.sln` in Visual Studio.
-3. Build and run `main_Phong_Shader.cpp`.
+3. Build and run `assignment7.cpp`.
 4. At runtime, the program generates `Phong.vert` and `Phong.frag` shader files (if not already present).
 5. A green sphere rendered with **Phong Shading** will appear in a 512x512 window.
 
